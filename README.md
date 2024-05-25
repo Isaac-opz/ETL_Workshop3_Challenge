@@ -73,10 +73,6 @@ Welcome. This project is focused on predicting happiness scores across different
    python3 scripts/performance_metrics.py
    ```
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgements
 
 - [Kafka](https://kafka.apache.org/)
